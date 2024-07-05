@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967558060041",
+    "project_id": "rollza",
+    "storage_bucket": "rollza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967558060041:android:f6e9e58b81f2ebb99280d8",
+        "android_client_info": {
+          "package_name": "com.lightspeed.editinghouse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGhCPFc6jVf3x7VFzpaM3xWaoHbtmqFl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
