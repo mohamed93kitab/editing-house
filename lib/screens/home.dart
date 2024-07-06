@@ -909,7 +909,7 @@ Widget  buildHomeCarouselSlider(context) {
         children: [
           CarouselSlider(
             options: CarouselOptions(
-                aspectRatio: MediaQuery.of(context).size.width < 600 ? 338 / 140 : 338 / 100,
+                aspectRatio: MediaQuery.of(context).size.width < 600 ? 338 / 140 : 310 / 100,
                 viewportFraction: 1,
                 initialPage: 0,
                 enableInfiniteScroll: true,
